@@ -4,7 +4,7 @@
 
 <p>About: Our user has been recently displaced from work due to Covid-19, their company closed or moved, or there was insufficient work for them. It is mainly aimed at the blue collar workers who need new skills, additional training, and are looking to start a new career (ex: Hospitality, Broadway Theatre, Mining, Maintenance etc. ).
 <p>Platform: sites.coogle.com
-<p>Link: https://sites.google.com/d/1wQJiSk48LbgY2tr3Kop05xPJ3gEh2Kfq/p/1pyqQifg09pgMOU3T7VyRdvsGBt8wWhvz/edit
+<p>Link: https://sites.google.com/view/addapt/home
 
 <p>Description: 
  1) Home Page 
