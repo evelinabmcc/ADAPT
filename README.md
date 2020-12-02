@@ -1,5 +1,5 @@
 <p>Website Name: ADAPT
-<p>Authors: Caleb Ayers, Sergiu Hotea, Evelina Iliescu-Nastasiu, Hisham Hossain
+<p>Authors: Caleb Varkony-Ayers, Sergiu Hotea, Evelina Iliescu-Nastasiu, Hisham Hossain
 <p>Idea: Educational Path Aiming Immediate Hire
 
 <p>About: Our user has been recently displaced from work due to Covid-19, their company closed or moved, or there was insufficient work for them. It is mainly aimed at the blue collar workers who need new skills, additional training, and are looking to start a new career (ex: Hospitality, Broadway Theatre, Mining, Maintenance etc. ).
