@@ -17,7 +17,7 @@
                   Motto: "Complete a Study Path, Get Employed"
                   Chat Bot: Covid Assist 
                           - answers Covid-19 related qestion
-          Google Search Bar: Returns information from *database websites* only 
+        Google Search Bar: Returns information from *database websites* only 
   
   
         Career Center: Allows the user to choose an educational module following certain criteria  
