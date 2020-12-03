@@ -1,5 +1,5 @@
-** Search Engine **
-<!-- Uses Custome search Engine from Google-->
+<!-- Search Engine -->
+<!-- Uses Custome search Engine from Google -->
 <!-- Searches the database of every website which courses are drawn from (with their pre-authorization) -->
 
 <script async src="https://cse.google.com/cse.js?cx=666a5d2bde4a7470e"></script>
