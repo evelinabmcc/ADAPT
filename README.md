@@ -15,12 +15,13 @@
                   Logo
                   Name: Adapt
                   Motto: "Complete a Study Path, Get Employed"
-                  Chat Bot: Covid Assist 
-                          - answers Covid-19 related qestion
-        Google Search Bar: Returns information from *database websites* only 
+                  Chatbot: Covid Assist 
+                          - designed to answer covid related questions, such as the latest COVID vaccine, treatments and help resources
+                          *In the future, Covid Assist will answer job related questions via text and voice command.*
+        Google Search Bar: Returns information from **database websites** only 
   
   
-        Career Center: Allows the user to choose an educational module following certain criteria  
+        Career Center: Allows the user to choose an educational module following specific criteria  
                      - Jobs that don't require any previous experience;
                      - Jobs geared towards a specific skill
                      - Junior Positions
@@ -28,6 +29,7 @@
                      - Time limit: 3 Months Training | 6 Months Training | 9 Months Training pathways
                      - Cost : Free | Up to $100 | Up to $300 | Up to $1000
                      + Helpful Resources
+                     *As we develop our website, the courses section for learning materials would be widely expanded and enhanced by filtering the search bar according to course type, and institution.*
         
         Courses: Our library of courses provided by companies in our database (in progress..)
                - By Field
