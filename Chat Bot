@@ -1,4 +1,4 @@
-<!-- Chatbot designed to answer covid related questions | It uses IBM API -->
+<!-- Chatbot designed to answer covid related questions | It uses the IBM Watson Assitant -->
 
 <script>
   window.watsonAssistantChatOptions = {
