@@ -13,6 +13,6 @@
    
    <p>**Resume Center** will provide 2 options for building a Resume:
                         1) a second Chatbot, designed to provide the user with up to 10 questions, and automatically create a PDF file according to the input answers. 
-                           this feature will update the PDF file Resume as soon as new skills are added, or education modules are completed.
+                           This feature will update the PDF file Resume as soon as new skills are added, or education modules are completed.
                         2) offering an array of templates, which the user can fill out and save to his account.
    
