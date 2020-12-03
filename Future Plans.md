@@ -1,5 +1,5 @@
  <p>**Covid Assist** chatbot on the homepage will answer additional questions, related to jobs. It will be voice-enabled.
-   Additionally, to make the site more accessible, it will link te user to a study-module, depending how they answer employment and skills questions.
+   Additionally, to make the site more accessible, it will link the user to a study-module, depending how they answer employment and skills questions.
    This feature will be accessible to elderly, and to disabled people, and will translate in differet languages.
    
    <p>**Search Engine** will be expanded to more international companies and websites that offer online courses.
