@@ -1,3 +1,4 @@
+:monocle_face:
 <p>Website Name: ADAPT
 <p>Authors: Caleb Varkony-Ayers, Sergiu Hotea, Evelina Iliescu-Nastasiu, Hisham Hossain
 <p>Idea: Educational Path Aiming Immediate Hire
