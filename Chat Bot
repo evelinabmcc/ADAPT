@@ -1,3 +1,5 @@
+<!-- Chatbot designed to answer covid related questions | It uses IBM API -->
+
 <script>
   window.watsonAssistantChatOptions = {
       integrationID: "453a8e09-81b9-4cfa-91b2-2be252f32eb0", // The ID of this integration.
