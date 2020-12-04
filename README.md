@@ -19,9 +19,10 @@
                   Motto: "Complete a Study Path, Get Employed"
                   Chatbot: Covid Assist 
                           - designed to answer covid related questions, such as the latest COVID vaccine, treatments and help resources
-                          *In the future, Covid Assist will answer job related questions via text and voice command.*
+                          *In the future, Covid Assist will answer job related questions via text and voice command, in different languages.*
         Google Search Bar: Returns information from **database websites** only 
-  
+        
+        Help Center: (in the works..) will be a central hub where you can steer curious site visitors, answer some of their more obvious questions, and offer additional support to answer your visitors' more complex questions 
   
         Career Center: Allows the user to choose an educational module following specific criteria  
                      - Jobs that don't require any previous experience;
