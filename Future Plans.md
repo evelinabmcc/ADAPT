@@ -8,7 +8,7 @@
    <p>**Courses** section will be widely expanded and enhanced by filtering the search bar according to course type, and institution.
    
    <p>**Jobs Map** will use Structured Data Mark-ups for more interactivity with the user and the companies seeking emloyees.
-   Data will be updated in real time. The user will be able to choose a query for the type of business they are looking for, as well as a radius from his/her current location.
+   Data will be updated in real time. The user will be able to choose a query for the type of business they are looking for, as well as a radius from his/her current location. We will be switching to ArcGIS Online and use a feed routine, in order to automate updates of the GIS layers. Application of Python Language necessary.
    <p>**Career Center* We will improve the matching algorithm for a more thorough Study and Training plan. We will make it more interactive though the use of Node.Js (ex: Express app)
    
    <p>**Resume Center** will provide 2 options for building a Resume:
