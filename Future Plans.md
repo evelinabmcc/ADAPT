@@ -1,9 +1,9 @@
  <p>**Covid Assist** chatbot on the homepage will answer additional questions, related to jobs. It will be voice-enabled.
    Additionally, to make the site more accessible, it will link the user to a study-module, depending how they answer employment and skills questions.
-   This feature will be accessible to elderly, and to disabled people, and will translate in differet languages.
+   This feature will be accessible to elderly, and to disabled people, and will translate in different languages.
    
    <p>**Search Engine** will be expanded to more international companies and websites that offer online courses.
-   Ideally, with we would colaborate with the U.S. government in order to link public institutions. We think all formal education can also be transfered to the online format through video/audio recorded sessions, PowerPoint presentations and text files.
+   Ideally, we would collaborate with the U.S. government in order to link public institutions. We think all formal education can also be transferred to the online format through video/audio recorded sessions, PowerPoint presentations and text files.
    
    <p>**Courses** section will be widely expanded and enhanced by filtering the search bar according to course type, and institution.
    
