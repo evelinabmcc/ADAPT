@@ -20,6 +20,7 @@
                   Chatbot: Covid Assist 
                           - designed to answer covid related questions, such as the latest COVID vaccine, treatments and help resources
                           *In the future, Covid Assist will answer job related questions via text and voice command, in different languages.*
+                          
         Google Search Bar: Returns information from **database websites** only 
         
         Help Center: (in the works..) will be a central hub where you can steer curious site visitors, answer some of their more obvious questions, and offer additional support to answer your visitors' more complex questions 
@@ -46,3 +47,5 @@
  <p>2) Covid-19 Resources Page: Links to the main national and international human resources and health centers
  
  <p>3) About Page: Describes our goal
+ 
+ <p>3) Jobs Map: populates with jobs and gigs in your area or designated area, in real time. Blue color represents contracted jobs, while orange represents short term jobs. You simply have to click the job position you are interested in and it will populate the details for you to apply.
